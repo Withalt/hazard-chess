@@ -1,0 +1,14 @@
+com\hazardchess\ui\BoardUI$1.class
+com\hazardchess\pieces\Knight.class
+com\hazardchess\pieces\Queen.class
+com\hazardchess\pieces\Bishop.class
+com\hazardchess\game\Board$CellState.class
+com\hazardchess\ui\BoardUI.class
+com\hazardchess\game\Cell.class
+com\hazardchess\pieces\Pawn.class
+com\hazardchess\game\Board.class
+com\hazardchess\game\Board$MoveCandidate.class
+com\hazardchess\pieces\Piece.class
+com\hazardchess\pieces\Rook.class
+com\hazardchess\game\Board$BoardSnapshot.class
+com\hazardchess\pieces\King.class
